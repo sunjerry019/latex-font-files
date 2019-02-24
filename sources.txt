@@ -1,2 +1,3 @@
 http://c.caignaert.free.fr/Install-ttf-Font.pdf
 https://www.overleaf.com/learn/latex/Questions/I_have_a_custom_font_I%27d_like_to_load_to_my_document._How_can_I_do_this%3F
+https://tex.stackexchange.com/questions/27755/how-to-use-downloaded-fonts-with-pdflatex-on-ubuntu
